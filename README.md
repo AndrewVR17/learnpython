@@ -10,7 +10,7 @@ This tutorial includes
 
 ## Learn the basics of Python
 This tutorial involves the BASICS, not advanced stuff
-If you would like me to make one, tell me in the [Discord](https://discord.gg/j2TxPqPR)
+If you would like me to make one, tell me in the [Discord](https://discord.gg/yrzaMBfQGt)
 
 #Photos
 ![1](https://github.com/user-attachments/assets/e837c978-1790-4b94-82f8-14f59b562a7a)
